@@ -1,6 +1,6 @@
 # LDG.github.io
 
-This is the repository that contains source code for the [LDG website](https://poyoki.github.io/ldg/).
+This is the repository that contains source code for the [PD-SDF website](https://pd-sdf.github.io/).
 
 
 # Website License
