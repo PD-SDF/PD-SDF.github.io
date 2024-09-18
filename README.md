@@ -1,4 +1,4 @@
-# LDG.github.io
+# PD-SDF.github.io
 
 This is the repository that contains source code for the [PD-SDF website](https://pd-sdf.github.io/).
 
